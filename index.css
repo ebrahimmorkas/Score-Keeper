@@ -1,0 +1,15 @@
+#scoreDisplayer{
+    text-align: center;
+}
+
+#resetBtn{
+    margin: auto;
+}
+
+.hidden{
+    display: none;
+}
+
+#instructions-body{
+    text-align: justify;
+}
